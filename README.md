@@ -1,6 +1,4 @@
 # zmiiaby.v2.1_UAS_Pemograman-Mobile
-# SerendipityApps - UAS_PEMROGMOBILE
-
 
 Nama    : Mohammad Azmi Abdusssyukur
 
